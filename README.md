@@ -15,9 +15,7 @@ This project is part of the **PLP Group 16** submission for our database systems
 ## Entity-Relationship Diagram (ERD)  
 Our database design is based on a well-structured ERD that ensures data integrity and optimized relationships between entities.  
 
-> **Note**: Include the ERD image here or link to the diagram.  
-Example:  
-![ERD Diagram](link-to-your-erd-image-or-file)  
+![Screenshot (194)](https://github.com/user-attachments/assets/1430367c-c4a4-495c-9901-51636ada75bd)
 
 ## Technologies Used  
 - **Database**: MySQL  
