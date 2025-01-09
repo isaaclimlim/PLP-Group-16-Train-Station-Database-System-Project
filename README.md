@@ -1,5 +1,23 @@
 # PLP Group 16: Train Station Database System Project  
 
+## 📋 Group Members  
+
+1. **Monicah Wamuhu** *(Group Leader)*  
+2. Isaac Limlim  
+3. Solomon Ngandu  
+4. Ryan Giggs  
+5. Rodgers Munene  
+6. Omar Mwakunyetta  
+7. Elphas Simiyu  
+8. Ali Aliow  
+9. Benson Muthangya  
+10. Fabius Simiyu  
+11. Farbean Makini 
+12. Phenny Mwaisaka  
+13. Micheal James  
+14. Joseph Roberts  
+15. Tabitha Wanjiku  
+
 ## Project Overview  
 The Train Station Database System is designed to enhance the efficiency and effectiveness of train station management. It provides a centralized solution for handling train schedules, passenger information, ticket bookings, and station resources while generating insights through analytics and reporting.  
 
@@ -48,24 +66,6 @@ Usage
 Use the database schema to run queries for train station operations.
 
 
-## 📋 Group Members  
-
-1. **Monicah Wamuhu** *(Group Leader)*  
-2. Isaac Limlim  
-3. Solomon Ngandu  
-4. Ryan Giggs  
-5. Rodgers Munene  
-6. Omar Mwakunyetta  
-7. Elphas Simiyu  
-8. Ali Aliow  
-9. Benson Muthangya  
-10. Fabius Simiyu  
-11. Farbean Makini 
-12. Phenny Mwaisaka  
-13. Micheal James  
-14. Joseph Roberts  
-15. Tabitha Wanjiku  
-
 ## Contribution Guidelines
 We welcome contributions from group members!
 
@@ -73,6 +73,6 @@ We welcome contributions from group members!
 2. Commit changes with clear and descriptive commit messages.
 3. Push your branch and open a pull request for review.
 4. Collaborate with team members to finalize the changes.
-5. 
-License
+   
+##License
 This project is licensed under the MIT License. See the LICENSE file for more details.
