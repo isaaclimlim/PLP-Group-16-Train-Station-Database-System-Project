@@ -10,7 +10,6 @@ This project is part of the **PLP Group 16** submission for our database systems
 - **Passenger Records**: Maintain comprehensive passenger data, including travel history and ticket information.  
 - **Ticket Booking System**: Facilitate ticket purchases, cancellations, and payment processing.  
 - **Resource Management**: Allocate station resources for efficient operations.  
-- **Analytics and Reporting**: Generate performance metrics and operational reports.  
 
 ## Entity-Relationship Diagram (ERD)  
 Our database design is based on a well-structured ERD that ensures data integrity and optimized relationships between entities.  
@@ -19,7 +18,7 @@ Our database design is based on a well-structured ERD that ensures data integrit
 
 ## Technologies Used  
 - **Database**: MySQL  
-- **Development Tools**: SQL scripts, MySQL Workbench, phpMyAdmin  
+- **Development Tools**: SQL scripts
 - **Version Control**: Git and GitHub  
 - **Collaboration Tools**: GitHub Issues, Projects  
 
@@ -28,7 +27,7 @@ Our database design is based on a well-structured ERD that ensures data integrit
 ### Prerequisites  
 - MySQL installed on your system  
 - Git installed for version control  
-- A MySQL client or GUI (e.g., MySQL Workbench or phpMyAdmin)  
+- A MySQL
 
 ### Steps to Set Up Locally  
 1. Clone the repository:  
@@ -47,8 +46,7 @@ Test the setup:
 Run SQL queries to ensure the database functions as expected.
 Usage
 Use the database schema to run queries for train station operations.
-Customize the database for integration with a front-end or back-end application.
-Generate reports using SQL queries or analytics tools.
+
 Group Members
 Name	Role
 Monicah Wamuhu	Group Leader
